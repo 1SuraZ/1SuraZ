@@ -1,56 +1,63 @@
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
-<h1 align="center">Hi 👋, I'm Suraz Nepal</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Software Enthusiast | Tech Explorer</h3>
+# 🚀 **Suraz Nepal**  
+### 💻 Full-Stack Developer | 🎨 Creative Thinker | 🌍 Explorer  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1suraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=1suraz&label=Profile%20views&color=0e75b6&style=flat" alt="1suraz" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **MyMind**
-- 🌱 Learning **AngularJS, AI & Cloud Computing**
-- 💡 Always open to **collaborations** on innovative projects & startups
-- ✍️ I write tech & life blogs at [Diaries of Suraz](https://diariesofsuraz.blog/)
-- 🎸 Fun fact: I love **cooking, reading books, and playing guitar**
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraznepal/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1SuraZ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-suraz.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nepalsuraj34@gmail.com)
+## 🌟 **About Me**  
+👋 Hi, I’m **Suraz Nepal**, a passionate **Full-Stack Developer** from Nepal! I love creating, building, and exploring new technologies.  
+🔭 Currently working on **MyMind**  
+👨‍💻 Check out my work at **[Portfolio](https://personal-portfolio-suraz.vercel.app)**  
+📝 Read my articles at **[Diaries of Suraz](https://diariesofsuraz.blog/)**  
+📫 Contact me at **nepalsuraj34@gmail.com**  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: **I love to cook, read books, and play guitar!**  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Other Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 📌 **Connect With Me**  
+<p align="center">
+  <a href="https://linkedin.com/in/suraznepal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ **Languages & Tools**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
+
+---
+
+## 🎖️ **GitHub Stats & Trophies**  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1suraz&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1suraz&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1suraz&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1suraz&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1suraz&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -59,13 +66,16 @@
 
 ---
 
-### ☕ Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/1suraz)
+## ☕ **Support Me**  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Buy me a coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+</p>
 
 ---
 
-_"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+⭐ **If you like my work, consider giving me a star!** ⭐
 
-🔥 Let's create something amazing together!
 
 
